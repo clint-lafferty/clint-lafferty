@@ -11,4 +11,4 @@ After working with technology as a chemist and an audio engineer, I began teachi
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Imaging and setting up an ESXi Server          | <a href="https://github.com/clint-lafferty/Home-Server-Homelab-Setup">Server Setup</a>|
+| Building an ESXi 6.7.0 server for use as server/homelab          | <a href="https://github.com/clint-lafferty/Home-Server-Homelab-Setup">Server Setup</a>|
