@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hello, I'm Clint Lafferty!
+<a href="https://www.linkedin.com/in/clint-lafferty-339230284/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-<!--
-**clint-lafferty/clint-lafferty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a career changer who through my years of professional experience has found a passion for IT; specifically cyber security.
 
-Here are some ideas to get you started:
+## Objective
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+After working with technology as a chemist and an audio engineer, I began teaching myself how to write simple programs in python. This was the first step into my interest in Cyber Security. I am in process of studying for my CompTIA Sec+ cert and am using this repo as a way to document the different projects I am engaging in to hone applicable skills. My current objective is to join a Security Operations Center as a Tier 1 Soc Analyst
+
+## Skills
+
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| Imaging and setting up an ESXi Server          | <a href="https://google.com">Detection Lab</a>|
