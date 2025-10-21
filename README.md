@@ -5,7 +5,7 @@ I am a career changer who through my years of professional experience has found 
 
 ## Objective
 
-With a background in technology through my work as a chemist and audio engineer, I began teaching myself Python, which sparked a deep interest in cybersecurity. I am currently preparing for the CompTIA Security+ certification and using this repository to document hands-on projects that build practical, industry-relevant skills. My goal is to transition into a cybersecurity role, specifically as a Tier 1 SOC Analyst within a Security Operations Center.
+With a background in audio engineering then chemistry, I was exposed to a lot of diverse technology. I began teaching myself Python, which lead to a deep interest in cybersecurity. I am currently preparing for the CompTIA Security+ certification and using this repository to document hands-on projects that build practical, industry-relevant skills. My goal is to transition into a cybersecurity role, specifically as a Tier 1 SOC Analyst within a Security Operations Center.
 
 ## Skills
 
